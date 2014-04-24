@@ -31,3 +31,7 @@ end
 
 # ランタイム用
 gem 'therubyracer'
+
+
+# boot-strap
+gem 'bootstrap-sass'
