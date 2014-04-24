@@ -33,5 +33,10 @@ end
 gem 'therubyracer'
 
 
-# boot-strap
+# bootstrap
 gem 'bootstrap-sass'
+
+# bootstrapを動かすため
+gem 'sprockets'
+gem 'slim'
+gem 'sprockets-rails'
