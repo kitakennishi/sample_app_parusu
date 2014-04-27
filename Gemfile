@@ -40,3 +40,6 @@ gem 'bootstrap-sass'
 gem 'sprockets'
 gem 'slim'
 gem 'sprockets-rails'
+
+# readline
+gem 'rb-readline'
