@@ -43,3 +43,6 @@ gem 'sprockets-rails'
 
 # readline
 gem 'rb-readline'
+
+# セキュアなパスワードを使用するhash関数
+gem 'bcrypt'
