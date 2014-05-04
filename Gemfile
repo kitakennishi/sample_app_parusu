@@ -52,3 +52,7 @@ gem 'bcrypt'
 
 # 自動的にサンプルユーザー作成する
 gem 'faker'
+
+# ページネーションメソッドを使用する
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
