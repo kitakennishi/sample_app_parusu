@@ -49,3 +49,6 @@ gem 'rb-readline'
 
 # セキュアなパスワードを使用するhash関数
 gem 'bcrypt'
+
+# 自動的にサンプルユーザー作成する
+gem 'faker'
